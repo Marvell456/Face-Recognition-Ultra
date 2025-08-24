@@ -1,5 +1,5 @@
 # Face Recognition Ultra
-A Python program that recognizes known faces in the faces folder, emotion, gender and age as well as distance.
+A Python program that recognizes known faces in the faces folder, emotion, gender, age, as well as distance.
 
 # Feature:
 - Recognizes known faces in the faces folder within the directory
@@ -30,10 +30,10 @@ A Python program that recognizes known faces in the faces folder, emotion, gende
    python main.py
 
 # Future Improvements
-- Work as a attendence saver
+- Work as an attendance saver
 - Improve recognition accuracy
 - Improve the speed of the recognition
-- Add more features, such as: saving every detected 'unknown' face into a seperate window to either: supervise or add as a new 'known' face
+- Add more features, such as: saving every detected 'unknown' face into a separate window to either supervise or add as a new 'known' face
 
 # Why I Built This
-I built this program to gain more insights on machine learning and face detection. I also tried adding more features to further refine my coding skills in using multiple libraries and models.
+I built this program to gain more insights into machine learning and face detection. I also tried adding more features to further refine my coding skills in using multiple libraries and models.
